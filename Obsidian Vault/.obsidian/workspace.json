@@ -1,0 +1,449 @@
+{
+  "main": {
+    "id": "545241e6968297e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bcb22aa8b166979",
+        "type": "split",
+        "children": [
+          {
+            "id": "e8e525020f8af1d2",
+            "type": "tabs",
+            "dimension": 59.60539979231568,
+            "children": [
+              {
+                "id": "cea558aae730c753",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20250418.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "20250418"
+                }
+              },
+              {
+                "id": "37f84cf7bf32b452",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "운영 관련 계정.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "운영 관련 계정"
+                }
+              },
+              {
+                "id": "94508e96971a71a1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Project access tokens.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Project access tokens"
+                }
+              },
+              {
+                "id": "8456d30e10f71d51",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20250423 - 20250424.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "20250423 - 20250424"
+                }
+              },
+              {
+                "id": "88102d933807b04c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Flutter + FVM (IntelliJ IDEA ver.).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Flutter + FVM (IntelliJ IDEA ver.)"
+                }
+              },
+              {
+                "id": "fc37464b03a45962",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20250424.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "20250424"
+                }
+              },
+              {
+                "id": "c1883fc259837364",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20250425.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "20250425"
+                }
+              },
+              {
+                "id": "49bff49780b508a5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20250428 - 20250429.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "20250428 - 20250429"
+                }
+              },
+              {
+                "id": "f53129571f6c9fed",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20250429.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "20250429"
+                }
+              },
+              {
+                "id": "f9b5be1e3659289d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "확인할 API 목록.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "확인할 API 목록"
+                }
+              },
+              {
+                "id": "01c3f3d62f50a931",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "오픈 체크 리스트.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "오픈 체크 리스트"
+                }
+              }
+            ],
+            "currentTab": 10
+          },
+          {
+            "id": "eb3a1085d9cce425",
+            "type": "tabs",
+            "dimension": 40.39460020768432,
+            "children": [
+              {
+                "id": "dcbce9c111ca7a9f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20250502.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "20250502"
+                }
+              },
+              {
+                "id": "df6b2d3edb3f38bd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20250507.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "20250507"
+                }
+              },
+              {
+                "id": "302379706c671836",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20250508.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "20250508"
+                }
+              },
+              {
+                "id": "13e9124e1e91da73",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20250512 - 20250513.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "20250512 - 20250513"
+                }
+              },
+              {
+                "id": "219be3ccc7945e85",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20250513.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "20250513"
+                }
+              },
+              {
+                "id": "f899702c97b89736",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "논의 필요 목록.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "논의 필요 목록"
+                }
+              },
+              {
+                "id": "7d80de3252e88081",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "20250515.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "20250515"
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d840c67474e5548",
+    "type": "split",
+    "children": [
+      {
+        "id": "8690fc5c80f09cc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c0733e655af7d8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "89247f27c325a9c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "c5e2e636ca9a2af5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8fba69dae2753eae",
+    "type": "split",
+    "children": [
+      {
+        "id": "7768c35a498a6942",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fee3150caa6ff4e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20250124.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "20250124의 백링크"
+            }
+          },
+          {
+            "id": "6cb77324c0e89cae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "80a60a5df1aa9180",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "daafad8112c548df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "7d80de3252e88081",
+  "lastOpenFiles": [
+    "20250515.md",
+    "논의 필요 목록.md",
+    "20250513.md",
+    "무제 1.md",
+    "오픈 체크 리스트.md",
+    "버전 관리.md",
+    "20250514.md",
+    "20250514 1.md",
+    "20250514 3.md",
+    "20250514 2.md",
+    "20250508.md",
+    "20250512 - 20250513.md",
+    "20250507.md",
+    "20250502.md",
+    "20250513 1.md",
+    "확인할 API 목록.md",
+    "계정 정보.md",
+    "20250509.md",
+    "20250512 -.md",
+    "MySQL DB.md",
+    "무제.md",
+    "20250508 1.md",
+    "20250429.md",
+    "20250428 - 20250429.md",
+    "20250507 1.md",
+    "20250425.md",
+    ".md"
+  ]
+}
